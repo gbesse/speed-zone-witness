@@ -1,0 +1,7 @@
+{
+  "zones": [{"id":"slow-a","rect":[2.0,-0.5,3.0,0.5],"limit_mps":0.2}],
+  "path_ttl_ms":1000,
+  "lookahead_m":3.0,
+  "max_path_distance_m":0.5,
+  "tolerance_mps":0.01
+}
